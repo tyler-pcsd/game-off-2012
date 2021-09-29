@@ -1,6 +1,7 @@
 <p align="center">
-<img src="http://dave-and-mike.github.com/game-off-2012/img/splash-screen.png" height="400" />
+<img src="https://github.com/Dave-and-Mike/game-off-2012/blob/master/img/splash-screen.png" height="400" />
 </p>
+
 ## Synopsis
 
 Alge has been trapped in Area 51! Help him escape by moving him through the levels to the escape tube at the end.
@@ -19,17 +20,17 @@ Control Alge by using the following keys:
  * E or Enter to activate or deactivate a switch
  * C to clone Alge
 
-##Browser Compatibility
+## Browser Compatibility
 
 Tested in Firefox Safari, and Chrome on Windows, Linux and Mac.
 
-##Technology Used
+## Technology Used
 
  * HTML5
  * JavaScript
  * [GameJs](http://gamejs.org/)
 
-##Screenshots
+## Screenshots
 <img src="http://dave-and-mike.github.com/game-off-2012/img/screenshot-1.png" height="200" />&nbsp;
 <img src="http://dave-and-mike.github.com/game-off-2012/img/screenshot-2.png" height="200" />
 <img src="http://dave-and-mike.github.com/game-off-2012/img/screenshot-3.png" height="200" />&nbsp;
